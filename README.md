@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @parkcodedr
-- About Me
+Hi, I’m @parkcodedr
+<b>About Me<b> 
 ----------------------------------------------------------------------
 Innovative and deadline-conscious Software Engineer with 3+ years of experience 
 designing and developing user-centered digital products and Enterprise Applications 
