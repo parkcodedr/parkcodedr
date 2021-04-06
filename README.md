@@ -1,4 +1,4 @@
-Hi, I’m @parkcodedr
+Hi, I’m @parkcodedr <br>
 <b>About Me<b> 
 ----------------------------------------------------------------------
 Innovative and deadline-conscious Software Engineer with 3+ years of experience 
