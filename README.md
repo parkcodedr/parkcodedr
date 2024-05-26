@@ -1,7 +1,7 @@
 Hi, I’m @parkcodedr <br>
 <b>About Me<b> 
 ----------------------------------------------------------------------
-Innovative and deadline-conscious Software Engineer with 3+ years of experience 
+Innovative and deadline-conscious Software Engineer with 5+ years of experience 
 designing and developing user-centered digital products and Enterprise Applications 
 from initial concept to final, polished deliverable. A team player with expertise in building secured and scalable applications
 
